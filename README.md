@@ -14,7 +14,7 @@ Pelatihan ini dibagi menjadi beberapa bab, yaitu:
 Pada bab 1 ini dijelaskan tentang lingkungan kerja pada perangkat lunak ArcGIS
 {% endhint %}
 
-{% page-ref page="bab-2-tutorial-editing.md" %}
+{% page-ref page="bab-2-tutorial-editing/" %}
 
 {% hint style="info" %}
 Cara termudah untuk belajar menggunakan ArcMap adalah dengan menyelesaikan tutorial pada bagian ini.

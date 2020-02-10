@@ -2,5 +2,17 @@
 
 * [Pelatihan Perangkat Lunak ArcGIS](README.md)
 * [Bab 1 Pengenalan ArcGIS](bab-1-pengenalan-arcgis.md)
-* [Bab 2 Tutorial Editing](bab-2-tutorial-editing.md)
+* [Bab 2 Tutorial Editing](bab-2-tutorial-editing/README.md)
+  * [Praktikum 1 - Membuat Fitur Baru](bab-2-tutorial-editing/praktikum-1-membuat-fitur-baru/README.md)
+    * [1a: Membuat Titik Baru](bab-2-tutorial-editing/praktikum-1-membuat-fitur-baru/1a-membuat-titik-baru.md)
+    * [1b: Digitasi Garis dan Snapping](bab-2-tutorial-editing/praktikum-1-membuat-fitur-baru/1b-digitasi-garis-dan-snapping.md)
+    * [1c: Pengaturan Properti Fitur Template](bab-2-tutorial-editing/praktikum-1-membuat-fitur-baru/1c-pengaturan-properti-fitur-template.md)
+    * [1d: Membuat Fitur Poligon Baru](bab-2-tutorial-editing/praktikum-1-membuat-fitur-baru/1d-membuat-fitur-poligon-baru.md)
+  * [Praktikum 2](bab-2-tutorial-editing/praktikum-2.md)
+  * [Praktikum 3](bab-2-tutorial-editing/praktikum-3.md)
+  * [Praktikum 4](bab-2-tutorial-editing/praktikum-4.md)
+  * [Praktikum 5](bab-2-tutorial-editing/praktikum-5.md)
+* [Bab 3 Topologi](bab-3-topologi.md)
+* [Bab 4 Analisis Jaringan](bab-4-analisis-jaringan.md)
+* [Bab 5 Analisis Spasial](bab-5-analisis-spasial.md)
 
