@@ -8,7 +8,7 @@ description: Pendahuluan
 
 Pelatihan ini dibagi menjadi beberapa bab, yaitu:
 
-{% page-ref page="bab-1-pengenalan-arcgis.md" %}
+{% page-ref page="bab-1-pengenalan-arcgis/" %}
 
 {% hint style="info" %}
 Pada bab 1 ini dijelaskan tentang lingkungan kerja pada perangkat lunak ArcGIS

@@ -1,7 +1,14 @@
 # Table of contents
 
 * [Pelatihan Perangkat Lunak ArcGIS](README.md)
-* [Bab 1 Pengenalan ArcGIS](bab-1-pengenalan-arcgis.md)
+* [Pendahuluan](pendahuluan/README.md)
+  * [Pengantar Sistem Informasi Geografis](pendahuluan/pengantar-sistem-informasi-geografis.md)
+  * [Data Tekstual vs Data Spasial](pendahuluan/data-tekstual-vs-data-spasial.md)
+  * [Komponen SIG](pendahuluan/komponen-sig.md)
+* [Bab 1 Pengenalan ArcGIS](bab-1-pengenalan-arcgis/README.md)
+  * [Apa itu ArcMap](bab-1-pengenalan-arcgis/apa-itu-arcmap.md)
+  * [Lingkungan Kerja ArcMap](bab-1-pengenalan-arcgis/lingkungan-kerja-arcmap.md)
+  * [Istilah Penting di ArcMap](bab-1-pengenalan-arcgis/istilah-penting-di-arcmap.md)
 * [Bab 2 Tutorial Editing](bab-2-tutorial-editing/README.md)
   * [Praktikum 1 - Membuat Fitur Baru](bab-2-tutorial-editing/praktikum-1-membuat-fitur-baru/README.md)
     * [1a: Membuat Titik Baru](bab-2-tutorial-editing/praktikum-1-membuat-fitur-baru/1a-membuat-titik-baru.md)
