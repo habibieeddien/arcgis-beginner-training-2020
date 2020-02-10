@@ -13,7 +13,7 @@ SIG sebagai suatu kumpulan yang terorganisir dari perangkat keras komputer, pera
 {% hint style="info" %}
 _Geographic_ : data collected is associated with some location in space.
 
-_Informational_ : attributes, or the characteristics \(data\), about the space is what we want to learn about.
+_Information_ : attributes, or the characteristics \(data\), about the space is what we want to learn about.
 
 _System_ : there must be a tie from the information to the geography in a seamless operation.
 {% endhint %}
