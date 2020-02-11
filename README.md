@@ -4,7 +4,29 @@ description: Pendahuluan
 
 # Pelatihan Perangkat Lunak ArcGIS
 
-## Daftar Isi
+### Penanggung Jawab
+
+Rudy Ariyanto, ST., M.Cs.
+
+### Koordinator
+
+Imam Fahrur Rozi, ST., MT.
+
+Yuri Ariyanto, S.Kom., M.Kom.
+
+### Tim Penulis
+
+[Habibie Ed Dien, S.Kom., M.T.](https://www.didien.tk/cv)
+
+M. Hasyim Ratsanjani
+
+Usman Nurhasan, S.Kom., M.T.
+
+Veri
+
+
+
+### Daftar Isi
 
 Pelatihan ini dibagi menjadi beberapa bab, yaitu:
 
