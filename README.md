@@ -6,11 +6,11 @@ description: Pendahuluan
 
 ### Penanggung Jawab
 
-Rudy Ariyanto, ST., M.Cs.
+Rudy Ariyanto, ST., M.Cs. \(Ketua Jurusan Teknologi Informasi - Politeknik Negeri Malang\)
 
 ### Koordinator
 
-Imam Fahrur Rozi, ST., MT.
+Imam Fahrur Rozi, ST., MT. \(Ketua Prodi D4 Teknik Informatika\)
 
 Yuri Ariyanto, S.Kom., M.Kom.
 
