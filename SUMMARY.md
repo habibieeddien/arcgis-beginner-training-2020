@@ -6,7 +6,7 @@
   * [Data Tekstual vs Data Spasial](pendahuluan/data-tekstual-vs-data-spasial.md)
   * [Komponen SIG](pendahuluan/komponen-sig.md)
 * [Bab 1 Pengenalan ArcGIS](bab-1-pengenalan-arcgis/README.md)
-  * [Apa itu ArcMap](bab-1-pengenalan-arcgis/apa-itu-arcmap.md)
+  * [Apa itu ArcMap ?](bab-1-pengenalan-arcgis/apa-itu-arcmap.md)
   * [Lingkungan Kerja ArcMap](bab-1-pengenalan-arcgis/lingkungan-kerja-arcmap.md)
   * [Istilah Penting di ArcMap](bab-1-pengenalan-arcgis/istilah-penting-di-arcmap.md)
 * [Bab 2 Tutorial Editing](bab-2-tutorial-editing/README.md)
