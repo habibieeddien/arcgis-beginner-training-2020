@@ -1,4 +1,4 @@
-# Praktikum 1 - Membuat Fitur Baru
+# Praktikum 1 - Pengenalan Lingkungan Editing
 
 ### Pendahuluan
 
@@ -6,7 +6,7 @@ Pengenalan lingkungan kerja editing, termasuk terminologi dan antarmuka pengguna
 
 ### Pengetahuan yang harus dimiliki <a id="pengetahuan-yang-harus-dimiliki"></a>
 
-Membuat dokumen baru pada ArcMap \(.mxd\)
+Membuat dokumen peta baru pada ArcMap \(.mxd\)
 
 ### Yang akan anda pelajari / lakukan <a id="yang-akan-anda-pelajari--lakukan"></a>
 

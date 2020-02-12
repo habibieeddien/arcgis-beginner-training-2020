@@ -1,2 +1,2 @@
-# Praktikum 2
+# Praktikum 2 - Membuat dan Mengedit Fitur
 
