@@ -1,4 +1,4 @@
-# Praktikum 1 - Pengenalan Lingkungan Editing
+# Praktikum 2 - Membuat dan Mengedit Fitur
 
 ### Pendahuluan
 
@@ -6,15 +6,15 @@ Pengenalan lingkungan kerja editing, termasuk terminologi dan antarmuka pengguna
 
 ### Pengetahuan yang harus dimiliki <a id="pengetahuan-yang-harus-dimiliki"></a>
 
-1. Membuat dokumen peta baru pada ArcMap \(.mxd\)
-2. Menambah peta dasar
+1. Membuat dokumen peta baru pada ArcMap \(.mxd\);
+2. Menambah peta dasar.
 
 ### Yang akan anda pelajari / lakukan <a id="yang-akan-anda-pelajari--lakukan"></a>
 
-1. Membuat titik baru;
-2. Digitasi garis dan poligon pada sebuah peta;
-3. Merubah perkakas editing; dan 
-4. Menggunakan fitur template.
+1. Mendefinisikan jenis fitur baru yang telah dibuat;
+2. Membuat fitur dari fitur yang telah ada;
+3. Mengedit fitur poligon;
+4. Mengedit simpul dan segmen.
 
 ### Data
 

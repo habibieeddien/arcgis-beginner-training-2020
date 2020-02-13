@@ -42,7 +42,21 @@ Dari ketiga cara tersebut, kemudian akan tampil kotak dialog untuk membuat dokum
 
 ### Menambah Peta Dasar
 
+#### Langkah 1
 
+Pilih menu icon seperti pada gambar berikut ini. Lalu pilih **Add Basemap...**.
 
+![Menu icon untuk menambah peta dasar](../.gitbook/assets/add-basemap.jpg)
 
+#### Langkah 2
+
+Maka akan tampil kotak dialog seperti pada gambar berikut ini. Misalnya di sini memilih **Imagery with Labels**. Kemudian klik tombol **Add** di pojok kanan bawah.
+
+![Tampilan kotak dialog saat memilih peta dasar](../.gitbook/assets/basemap.jpg)
+
+Tunggu proses memuat peta sampai selesai, maka akan muncul layer baru di bagian **Table of Contents**.
+
+{% hint style="info" %}
+Pastikan koneksi internet stabil dan lancar saat ingin menambahkan peta dasar secara online
+{% endhint %}
 
