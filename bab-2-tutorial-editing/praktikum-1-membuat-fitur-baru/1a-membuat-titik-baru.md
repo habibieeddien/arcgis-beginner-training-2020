@@ -6,7 +6,7 @@ description: >-
 
 # 1a: Membuat Titik Baru
 
-### Langkah 1: Persiapkan peta Anda
+### Langkah 1: Persiapkan peta dasar Anda
 
 Perhatikan bahwa cara terbaik untuk membuat shapefile adalah melalui ArcCatalog. Langkah-langkah berikut mengasumsikan bahwa Anda memiliki sesi ArcMap yang sudah terbuka dengan dokumen peta baru \(kosong\).
 
@@ -40,15 +40,29 @@ Beri nama **LatihanTitik** dan ubah jenis fitur ke **Point**.
 
 Selanjutnya menentukan sistem koordinat pada shapefile Anda. Pada latihan ini, kita menggunakan sistem koordinat ... 
 
-Klik tombol Edit... kemudian pilih ...
+Klik tombol **Edit...** kemudian pilih ...
 
-Klik OK untuk menutup kotak dialog dan klik OK lagi pada kotak dialog shapefile.
+Klik **OK** untuk menutup kotak dialog dan klik **OK** lagi pada kotak dialog shapefile.
 
 ### Langkah 3: Memulai proses editing
 
-xxx
+Klik kanan pada _layer LatihanTitik_ pada bagian **Table of contents**, pilih **Edit Features** &gt; **Start Editing**.
 
-### Langkah 4: Membuat dan mengubah dari fitur titik ke polygon
+-- gambar 
+
+{% hint style="info" %}
+Anda mungkin akan melihat kotak pesan peringatan bahwa layer yang akan diedit mungkin tidak sesuai dengan data frame. Klik **Continue** untuk mengabaikan pesan tersebut.
+
+-- gambar
+{% endhint %}
+
+Tampilkan jendela **Create Features** dengan cara ... Melalui jendela ini Anda dapat memilih peralatan _editing_ berupa titik, poligon, elips, dan lain-lain.
+
+Pilih **LatihanTitik** pada jendela **Create Features**.
+
+-- gambar
+
+### Langkah 4: Mengubah dari fitur titik ke polygon
 
 xxx
 
