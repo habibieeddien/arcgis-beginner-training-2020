@@ -1,2 +1,2 @@
-# Praktikum 5
+# Praktikum 5 - Menggunakan Penyesuaian Spasial
 
