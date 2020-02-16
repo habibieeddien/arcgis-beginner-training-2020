@@ -28,19 +28,31 @@ Terkadang Anda butuh untuk membuat poligon berupa persegi panjang. Dari pada mem
 
 Pastikan jendela **Construction Tools** sudah tampil, lalu pilih **Rectangle**. Pastikan juga Anda sudah berada pada sesi Editing pada fitur template poligon.
 
+-- gambar
+
 #### Langkah 2
 
 Anda sekarang dapat memulai membuat persegi panjang. Untuk membuat persegi panjang secara presisi, Anda dapat memanfaatkan shortcut pada keyboard seperti langkah berikut.
 
 Setelah klik pertama, tekan huruf **D** pada keyboard, kemudian ketik angka **derajat** kemiringan yang dibutuhkan, lalu tekan **ENTER** untuk menerapkan.
 
+-- gambar
+
 {% hint style="info" %}
-By default, angles are entered in degrees using the polar system, which is measured counterclockwise from the positive x-axis. You can specify a different direction measuring system or unit on the Editing Options dialog box &gt; Units tab.
+Secara default, derajat kemiringan menggunakan sistem polar, yang diukur searah jarum jam dari sumbu-x positif. Anda dapat mengubah sistem derajat ini atau satuannya dari menu Editing Options lalu pilih tab Units.
 {% endhint %}
 
 Tekan huruf **W** pada keyboard, kemudian ketik angka berapa meter **lebar** dari persegi panjang yang dibutuhkan, lalu tekan **ENTER**.
 
+-- gambar
+
 Gerakkan kursor ke atas dan kiri sehingga persegi panjang terbentuk pada posisi yang benar. Tekan huruf **L** pada keyboard, ketik angka berapa meter **panjang**nya, lalu tekan **ENTER**.
+
+-- gambar
+
+{% hint style="info" %}
+Tip: Selain menggunakan shortcut pada keyboard, Anda juga dapat menggunakan klik kanan untuk mengakses menu yang berisi perintah sama bahkan lebih lengkap.
+{% endhint %}
 
 ### Membuat poligon gabungan
 
