@@ -1,20 +1,16 @@
----
-description: Pendahuluan
----
-
 # Pelatihan Perangkat Lunak ArcGIS
 
-### Penanggung Jawab
+## Penanggung Jawab
 
 Rudy Ariyanto, ST., M.Cs. \(Ketua Jurusan Teknologi Informasi - Politeknik Negeri Malang\)
 
-### Koordinator
+## Koordinator
 
 Imam Fahrur Rozi, ST., MT. \(Ketua Prodi D4 Teknik Informatika\)
 
 Yuri Ariyanto, S.Kom., M.Kom.
 
-### Tim Penulis
+## Tim Penulis
 
 [Habibie Ed Dien, S.Kom., M.T.](https://www.didien.tk/cv)
 
@@ -26,7 +22,7 @@ Veri
 
 
 
-### Daftar Isi
+## Daftar Isi
 
 Pelatihan ini dibagi menjadi beberapa bab, yaitu:
 

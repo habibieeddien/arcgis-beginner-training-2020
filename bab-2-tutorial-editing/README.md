@@ -1,10 +1,10 @@
 # Bab 2 Tutorial Editing
 
-### Membuat Dokumen Peta Baru
+## Membuat Dokumen Peta Baru
 
 Ada dua kondisi untuk membuat dokumen peta baru pada ArcMap, yaitu:
 
-#### Kondisi 1: Saat aplikasi ArcMap pertama kali dibuka
+### Kondisi 1: Saat aplikasi ArcMap pertama kali dibuka
 
 1. Tampilan saat ArcMap baru pertama kali dibuka seperti pada gambar berikut. 
 2. Pilih **ISO \(A\) Page Sizes** kemudian klik **ISO A3 Landscape**.
@@ -14,7 +14,7 @@ Ada dua kondisi untuk membuat dokumen peta baru pada ArcMap, yaitu:
 
 ![Tampilan saat memilih ukuran kertas untuk dokumen baru](../.gitbook/assets/iso-a3.jpg)
 
-#### Kondisi 2: Saat sedang bekerja menggunakan ArcMap
+### Kondisi 2: Saat sedang bekerja menggunakan ArcMap
 
 Pada kondisi ini, ada tiga cara untuk membuat dokumen peta baru, yaitu:
 
@@ -40,15 +40,15 @@ Dari ketiga cara tersebut, kemudian akan tampil kotak dialog untuk membuat dokum
 
 ![Tampilan untuk membuat dokumen peta baru](../.gitbook/assets/new-dok.jpg)
 
-### Menambah Peta Dasar
+## Menambah Peta Dasar
 
-#### Langkah 1
+### Langkah 1
 
 Pilih menu icon seperti pada gambar berikut ini. Lalu pilih **Add Basemap...**.
 
 ![Menu icon untuk menambah peta dasar](../.gitbook/assets/add-basemap.jpg)
 
-#### Langkah 2
+### Langkah 2
 
 Maka akan tampil kotak dialog seperti pada gambar berikut ini. Misalnya di sini memilih **Imagery with Labels**. Kemudian klik tombol **Add** di pojok kanan bawah.
 
