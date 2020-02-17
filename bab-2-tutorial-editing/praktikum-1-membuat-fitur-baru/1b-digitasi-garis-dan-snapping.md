@@ -10,13 +10,13 @@ Praktikum ini membutuhkan koneksi internet yang cepat dan stabil, karena mengaks
 
 ### Langkah 1: Konfigurasi snapping
 
-Klik Editor &gt; Snapping &gt; Options...
+Klik **Editor** &gt; **Snapping** &gt; **Options...**
 
--- gambar
+![](../../.gitbook/assets/editor-snapping.jpg)
 
-Pastikan nilai toleransi snap minimal 10 pixels. Check box pada **Show tips**, **Layer name**, **Snap type**, dan **Background**.
+Pastikan nilai toleransi snap minimal **10 pixels**. Check box pada **Show tips**, **Layer name**, **Snap type**, dan **Background**.
 
--- gambar
+![](../../.gitbook/assets/snapping-options.jpg)
 
 Klik **OK** untuk menutup kotak dialog.
 
@@ -26,17 +26,21 @@ Feature Construction toolbar merupakan cara cepat untuk mengakses beberapa peral
 
 Klik **Editor** &gt; **Options**.
 
--- gambar
+![](../../.gitbook/assets/editing-options.jpg)
 
 Pada tab **General**, check box **Show feature construction toolbar**.
 
--- gambar
+![](../../.gitbook/assets/show-feature-constructions.jpg)
 
 Klik **OK** untuk menutup kotak dialog **Editing Options**.
 
 ### Langkah 3: Memulai Digitasi Garis
 
-Buat shapefile dengan jenis Polyline.
+Buatlah sebuah shapefile dengan jenis **Polyline**.
+
+Kemudian Anda dapat memulai membuat garis, misalnya jalan di kampus Polinema. Pastikan Anda sudah memilih **Line** pada **Construction Tools** dan Anda sudah klik **Straight Segment** pada **Editor toolbar**.
+
+![](../../.gitbook/assets/latihan-jalan.jpg)
 
 
 
