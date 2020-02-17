@@ -42,5 +42,7 @@ Jika Anda sudah selesai mengedit, maka Anda dapat mengakhirinya dengan menekan t
 
 Klik menu **Editor** &gt; **Save Edits**. Lalu pilih lagi menu **Editor** &gt; **Stop Editing**.
 
+{% hint style="success" %}
 Praktikum 2 sudah selesai.
+{% endhint %}
 

@@ -58,3 +58,7 @@ Tip: Selain menggunakan shortcut pada keyboard, Anda juga dapat menggunakan klik
 
 xxx
 
+{% hint style="success" %}
+Praktikum 1 sudah selesai.
+{% endhint %}
+

@@ -38,7 +38,11 @@ Klik **OK** untuk menutup kotak dialog **Editing Options**.
 
 Buatlah sebuah shapefile dengan jenis **Polyline**.
 
-Kemudian Anda dapat memulai membuat garis, misalnya jalan di kampus Polinema. Pastikan Anda sudah memilih **Line** pada **Construction Tools** dan Anda sudah klik **Straight Segment** pada **Editor toolbar**.
+Kemudian Anda dapat memulai membuat garis, misalnya jalan di kampus Polinema.
+
+{% hint style="warning" %}
+Pastikan Anda sudah memilih **Line** pada **Construction Tools** dan sudah klik **Straight Segment** pada **Editor toolbar**.
+{% endhint %}
 
 ![](../../.gitbook/assets/latihan-jalan.jpg)
 
