@@ -22,7 +22,7 @@ Selanjutnya, pilih **Imagery**.
 
 Selanjutnya, _zoom in_ ke area kampus Polinema.
 
--- gambar kampus polinema --
+![Zoom in ke area kampus Polinema](../../.gitbook/assets/zoom-in-polinema.jpg)
 
 ### Langkah 2: Membuat titik baru dengan shapefile
 
@@ -36,11 +36,11 @@ Di ArcCatalog, klik **kanan** pada folder project Anda, kemudian pilih **New** &
 
 Beri nama **LatihanTitik** dan ubah jenis fitur ke **Point**.
 
--- gambar penamaan point --
+![](../../.gitbook/assets/latihantitik.jpg)
 
-Selanjutnya menentukan sistem koordinat pada shapefile Anda. Pada latihan ini, kita menggunakan sistem koordinat ... 
+Selanjutnya menentukan sistem koordinat pada shapefile Anda. Pada latihan ini, kita menggunakan sistem koordinat **GCS\_WGS\_1984**.
 
-Klik tombol **Edit...** kemudian pilih ...
+Klik tombol **Edit...** kemudian pilih **WGS 1984**.
 
 Klik **OK** untuk menutup kotak dialog dan klik **OK** lagi pada kotak dialog shapefile.
 
@@ -48,21 +48,39 @@ Klik **OK** untuk menutup kotak dialog dan klik **OK** lagi pada kotak dialog sh
 
 Klik kanan pada _layer LatihanTitik_ pada bagian **Table of contents**, pilih **Edit Features** &gt; **Start Editing**.
 
--- gambar 
+![](../../.gitbook/assets/start-editing.jpg)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Anda mungkin akan melihat kotak pesan peringatan bahwa layer yang akan diedit mungkin tidak sesuai dengan data frame. Klik **Continue** untuk mengabaikan pesan tersebut.
-
--- gambar
 {% endhint %}
 
-Tampilkan jendela **Create Features** dengan cara ... Melalui jendela ini Anda dapat memilih peralatan _editing_ berupa titik, poligon, elips, dan lain-lain.
+Tampilkan jendela **Create Features** dengan cara klik icon ![](../../.gitbook/assets/icon-create-feature.jpg) pada Editor toolbar. Melalui jendela ini Anda dapat memilih peralatan _editing_ berupa titik, poligon, elips, dan lain-lain.
 
 Pilih **LatihanTitik** pada jendela **Create Features**.
 
--- gambar
+![](../../.gitbook/assets/create-feature-latihan.jpg)
 
-### Langkah 4: Mengubah dari fitur titik ke polygon
+Ketika proses editing selesai, Anda harus menyimpan shapefile baru Anda agar hasil pekerjaan tidak hilang, kemudian sesi editing dapat diakhiri seperti pada cara berikut:
 
-xxx
+Perhatikan pada bagian **toolbar Editor**, lalu klik **Editor** &gt; **Save Edits**,
+
+![](../../.gitbook/assets/save-edits.jpg)
+
+kemudian klik **Editor** &gt; **Stop Editing**.
+
+![](../../.gitbook/assets/stop-editing.jpg)
+
+{% hint style="danger" %}
+**Penting!** Silakan simpan hasil pekerjaan Anda sebelum sesi editing diakhiri atau sebelum membuat shapefile yang lain.
+{% endhint %}
+
+### Langkah 4: Mengubah jenis fitur Shapefile
+
+Langkah untuk membuat shapefile berupa **polygon**, **polyline** atau **point** hampir sama. Perbedaannya hanya terletak pada saat memilih **Feature Type**.
+
+![](../../.gitbook/assets/new-shp.jpg)
+
+Pilihan pada peralatan editing \(**Construction tools**\) juga Anda dapat tentukan sesuai kebutuhan.
+
+![](../../.gitbook/assets/construction-tools.jpg)
 

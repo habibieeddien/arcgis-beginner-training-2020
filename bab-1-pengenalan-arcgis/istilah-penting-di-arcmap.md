@@ -59,3 +59,9 @@ Gaya adalah kumpulan simbol, warna, dan elemen peta yang cocok dengan tema atau 
 
 Basemap digunakan untuk referensi lokasi dan menyediakan kerangka kerja di mana pengguna melapisi atau menyatukan lapisan operasional mereka, melakukan tugas, dan memvisualisasikan informasi geografis. Di ArcMap, lapisan basemap dapat digunakan untuk menahan lapisan peta yang lebih statis dan dengan demikian dapat digunakan untuk mendukung tampilan peta dinamis yang berkinerja tinggi.
 
+### Coordinate System \(Spatial Reference\)
+
+Untuk menampilkan data Anda dengan benar, setiap frame data menggunakan sistem koordinat. Ini menentukan proyeksi peta untuk tampilan peta dalam bingkai data. Sistem koordinat frame data tidak harus sama dengan data yang Anda gunakan, meskipun jika ArcMap harus memproyeksikan data Anda dengan cepat, mungkin butuh waktu lebih lama untuk menggambar.
+
+Ketika ArcMap dimulai dengan peta baru yang kosong, sistem koordinat untuk bingkai data default tidak ditentukan. Lapisan pertama ditambahkan ke bingkai data kosong menetapkan sistem koordinat untuk bingkai data, tetapi Anda dapat mengubahnya jika perlu. Saat Anda menambahkan lapisan berikutnya, mereka ditampilkan secara otomatis menggunakan sistem koordinat bingkai data selama sistem koordinat sumber data ditentukan.
+
