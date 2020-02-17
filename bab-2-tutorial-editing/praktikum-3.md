@@ -1,2 +1,2 @@
-# Praktikum 3 - Membuat dan Mengedit Anotasi
+# Praktikum 3
 

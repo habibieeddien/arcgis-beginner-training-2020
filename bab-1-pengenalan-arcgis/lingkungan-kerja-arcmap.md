@@ -15,7 +15,7 @@ Jika kita ingin mencetak peta ke bentuk kertas atau mengeksportnya berupa PDF, d
 
 ![](../.gitbook/assets/page-layout.jpg)
 
-## Map Layers
+### Map Layers
 
 Di dalam data frame terdapat dataset atau sekumpulan data geografis yang direpresentasikan dengan layer. Setiap layer dapat berisi data dan informasi penting di dalam peta seperti:
 
@@ -27,13 +27,13 @@ Contoh map layer pada gambar berikut berisi data sungai, danau, lahan, jalan, da
 
 ![](../.gitbook/assets/map-layers.jpg)
 
-## Table of Contents
+### Table of Contents
 
 Bagian ini menampilkan daftar layer \(lapisan\) pada peta dan menunjukkan fitur setiap layer-nya direpresentasikan. Tanda check box menunjukkan layer itu aktif atau tidak. Urutan layer menunjukkan bahwa urutan lapisan yang tergambar di peta atau data frame.
 
 ![](../.gitbook/assets/tableofcontents.jpg)
 
-## Catalog
+### Catalog
 
 ArcMap, ArcGlobe, dan ArcScene termasuk ke dalam Catalog yang digunakan untuk memanajemen berbagai jenis informasi geografis seperti data, peta, hasil project GIS Anda ketika bekerja dengan ArcGIS.
 
