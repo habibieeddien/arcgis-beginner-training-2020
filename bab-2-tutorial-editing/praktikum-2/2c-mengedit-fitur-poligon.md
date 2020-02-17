@@ -1,4 +1,4 @@
-# 2c: Mengedit Fitur Poligon
+# 2b: Mengedit Fitur Poligon
 
 ## Membuat lubang di dalam sebuah poligon
 

@@ -1,4 +1,4 @@
-# 2b: Membuat Fitur dari Fitur yang Telah Ada
+# 2a: Membuat Fitur dari Fitur yang Telah Ada
 
 ## Tentang fitur buffering
 

@@ -50,7 +50,7 @@ Klik kanan pada _layer LatihanTitik_ pada bagian **Table of contents**, pilih **
 
 -- gambar 
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Anda mungkin akan melihat kotak pesan peringatan bahwa layer yang akan diedit mungkin tidak sesuai dengan data frame. Klik **Continue** untuk mengabaikan pesan tersebut.
 
 -- gambar
@@ -62,7 +62,27 @@ Pilih **LatihanTitik** pada jendela **Create Features**.
 
 -- gambar
 
+Ketika proses editing selesai, Anda harus menyimpan shapefile baru Anda agar hasil pekerjaan tidak hilang, kemudian sesi editing dapat diakhiri seperti pada cara berikut:
+
+Perhatikan pada bagian **toolbar Editor**, lalu klik **Editor** &gt; **Save Edits**,
+
+-- gambar
+
+kemudian klik **Editor** &gt; **Stop Editing**.
+
+-- gambar
+
+{% hint style="danger" %}
+Hint: **Penting!** Silakan simpan hasil pekerjaan Anda \(Ctrl+S\) sebelum sesi editing diakhiri atau sebelum membuat shapefile yang lain.
+{% endhint %}
+
 ### Langkah 4: Mengubah dari fitur titik ke polygon
 
-xxx
+Langkah untuk membuat shapefile berupa **polygon**, **polyline** atau **point** hampir sama. Perbedaannya hanya terletak pada saat memilih **Feature Type**.
+
+-- gambar
+
+Pilihan pada peralatan editing \(**Construction tools**\) juga Anda dapat tentukan sesuai kebutuhan.
+
+-- gambar
 
