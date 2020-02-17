@@ -56,7 +56,7 @@ Maka akan tampil kotak dialog seperti pada gambar berikut ini. Misalnya di sini 
 
 Tunggu proses memuat peta sampai selesai, maka akan muncul layer baru di bagian **Table of Contents**.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Pastikan koneksi internet stabil dan lancar saat ingin menambahkan peta dasar secara online
 {% endhint %}
 

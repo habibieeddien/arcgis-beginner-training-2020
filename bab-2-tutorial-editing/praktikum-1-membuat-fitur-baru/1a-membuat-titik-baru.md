@@ -50,7 +50,7 @@ Klik kanan pada _layer LatihanTitik_ pada bagian **Table of contents**, pilih **
 
 -- gambar 
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Anda mungkin akan melihat kotak pesan peringatan bahwa layer yang akan diedit mungkin tidak sesuai dengan data frame. Klik **Continue** untuk mengabaikan pesan tersebut.
 
 -- gambar
@@ -72,7 +72,7 @@ kemudian klik **Editor** &gt; **Stop Editing**.
 
 -- gambar
 
-{% hint style="info" %}
+{% hint style="danger" %}
 Hint: **Penting!** Silakan simpan hasil pekerjaan Anda \(Ctrl+S\) sebelum sesi editing diakhiri atau sebelum membuat shapefile yang lain.
 {% endhint %}
 

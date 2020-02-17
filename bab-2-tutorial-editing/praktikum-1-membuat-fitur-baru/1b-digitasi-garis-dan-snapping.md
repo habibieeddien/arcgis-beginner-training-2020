@@ -4,7 +4,7 @@ Pada praktikum kali ini, Anda akan mendigitasi jalan berdasarkan citra satelit p
 
 Snapping berguna untuk membantu menyambungkan garis jalan yang sudah dibuat. Pointer akan otomatis mengepaskan posisi garis, sumbu, maupun elemen geometri lain yang berada didekatnya. Hal ini akan mempermudah Anda dalam melakukan digitasi, sehingga tidak ada garis yang terputus.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Praktikum ini membutuhkan koneksi internet yang cepat dan stabil, karena mengakses peta dasar secara online. Jika koneksi tidak lancar, maka Anda dapat memanfaatkan sumber peta dasar lain secara offline.
 {% endhint %}
 
