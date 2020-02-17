@@ -6,19 +6,21 @@ Anda telah mempelajari beberapa hal dasar dalam melakukan editing elemen dan car
 
 ### Langkah 1
 
-Buat shapefile baru dengan jenis fitur berupa polygon.
+Buat shapefile baru dengan jenis fitur berupa **polygon**.
 
 Kemudian _Zoom in_ ke Gedung Teknik Sipil Polinema. Mulailah mengedit fitur dengan klik kanan pada layer polygon yang baru saja dibuat, pilih **Edit Features** &gt; **Start Editing**.
 
 ### Langkah 2
 
-Pada Editor toolbar klik **Straight Segment**.
+Pada **Editor toolbar** klik **Straight Segment** .
 
--- gambar
+![](../../.gitbook/assets/straight-segment-polygon.jpg)
 
 ### Langkah 3
 
 Mulailah membuat poligon dengan peta dasar Gedung Teknik Sipil Polinema. Untuk mengakhiri, tekan **F2** pada keyboard atau klik **Finish Sketch**.
+
+![](../../.gitbook/assets/finish-sketch.jpg)
 
 ## Membuat poligon berupa persegi panjang
 
@@ -26,9 +28,9 @@ Terkadang Anda butuh untuk membuat poligon berupa persegi panjang. Dari pada mem
 
 ### Langkah 1
 
-Pastikan jendela **Construction Tools** sudah tampil, lalu pilih **Rectangle**. Pastikan juga Anda sudah berada pada sesi Editing pada fitur template poligon.
+Pastikan jendela **Construction Tools** sudah tampil, lalu pilih **Rectangle**. Pastikan juga Anda sudah berada pada **sesi Editing** pada fitur template poligon.
 
--- gambar
+![](../../.gitbook/assets/rectangle.jpg)
 
 ### Langkah 2
 
@@ -36,7 +38,7 @@ Anda sekarang dapat memulai membuat persegi panjang. Untuk membuat persegi panja
 
 Setelah klik pertama, tekan huruf **D** pada keyboard, kemudian ketik angka **derajat** kemiringan yang dibutuhkan, lalu tekan **ENTER** untuk menerapkan.
 
--- gambar
+![](../../.gitbook/assets/direction.jpg)
 
 {% hint style="info" %}
 Secara default, derajat kemiringan menggunakan sistem polar, yang diukur searah jarum jam dari sumbu-x positif. Anda dapat mengubah sistem derajat ini atau satuannya dari menu Editing Options lalu pilih tab Units.
@@ -44,7 +46,7 @@ Secara default, derajat kemiringan menggunakan sistem polar, yang diukur searah 
 
 Tekan huruf **W** pada keyboard, kemudian ketik angka berapa meter **lebar** dari persegi panjang yang dibutuhkan, lalu tekan **ENTER**.
 
--- gambar
+![](../../.gitbook/assets/width.jpg)
 
 Gerakkan kursor ke atas dan kiri sehingga persegi panjang terbentuk pada posisi yang benar. Tekan huruf **L** pada keyboard, ketik angka berapa meter **panjang**nya, lalu tekan **ENTER**.
 
