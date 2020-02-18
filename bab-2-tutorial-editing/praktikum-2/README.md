@@ -7,7 +7,8 @@ Pengenalan lingkungan kerja editing, termasuk terminologi dan antarmuka pengguna
 ### Pengetahuan yang harus dimiliki <a id="pengetahuan-yang-harus-dimiliki"></a>
 
 1. Membuat dokumen peta baru pada ArcMap \(.mxd\);
-2. Menambah peta dasar.
+2. Menambah peta dasar;
+3. Memahami lingkungan editing.
 
 ### Yang akan anda pelajari / lakukan <a id="yang-akan-anda-pelajari--lakukan"></a>
 
