@@ -50,15 +50,11 @@ Tekan huruf **W** pada keyboard, kemudian ketik angka berapa meter **lebar** dar
 
 Gerakkan kursor ke atas dan kiri sehingga persegi panjang terbentuk pada posisi yang benar. Tekan huruf **L** pada keyboard, ketik angka berapa meter **panjang**nya, lalu tekan **ENTER**.
 
--- gambar
+![](../../.gitbook/assets/length-polygon.jpg)
 
 {% hint style="info" %}
 Tip: Selain menggunakan shortcut pada keyboard, Anda juga dapat menggunakan klik kanan untuk mengakses menu yang berisi perintah sama bahkan lebih lengkap.
 {% endhint %}
-
-## Membuat poligon gabungan
-
-xxx
 
 {% hint style="success" %}
 Praktikum 1 sudah selesai.

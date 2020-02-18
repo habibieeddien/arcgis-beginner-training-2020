@@ -12,6 +12,10 @@ Perhatikan bahwa cara terbaik untuk membuat shapefile adalah melalui ArcCatalog.
 
 Anda akan menggunakan gambar latar belakang kampus Polinema untuk praktikum ini.
 
+{% hint style="warning" %}
+Praktikum ini membutuhkan koneksi internet yang cepat dan stabil, karena mengakses peta dasar secara online. Jika koneksi tidak lancar, maka Anda dapat memanfaatkan sumber peta dasar lain secara offline.
+{% endhint %}
+
 Klik **File** &gt; **Add Data** &gt; **Add Basemap...**
 
 ![](../../.gitbook/assets/image002.png)
@@ -38,9 +42,9 @@ Beri nama **LatihanTitik** dan ubah jenis fitur ke **Point**.
 
 ![](../../.gitbook/assets/latihantitik.jpg)
 
-Selanjutnya menentukan sistem koordinat pada shapefile Anda. Pada latihan ini, kita menggunakan sistem koordinat **GCS\_WGS\_1984**.
+Selanjutnya menentukan sistem koordinat pada shapefile Anda. Pada latihan ini, kita menggunakan sistem koordinat **WGS\_1984\_UTM\_Zone\_49S**.
 
-Klik tombol **Edit...** kemudian pilih **WGS 1984**.
+Klik tombol **Edit...** kemudian pilih **WGS 1984 UTM Zone 49S**.
 
 Klik **OK** untuk menutup kotak dialog dan klik **OK** lagi pada kotak dialog shapefile.
 
