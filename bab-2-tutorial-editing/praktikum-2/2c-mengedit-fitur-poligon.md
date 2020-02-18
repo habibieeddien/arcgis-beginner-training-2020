@@ -8,13 +8,13 @@ Pastikan Anda sudah di **sesi Editing**. Klik **Edit Tool** pada _Editor Toolbar
 
 Kemudian tentukan poligon mana yang ingin dibuat lubang dan letakkan poligon lain di atas poligon tersebut.
 
--- gambar
+![](../../.gitbook/assets/edit-tool-clip.jpg)
 
 ### Langkah 2
 
 Pilih poligon yang berada diatasnya, lalu klik menu **Editor** &gt; klik **Clip**. Maka akan muncul kotak dialog Clip.
 
--- gambar
+![](../../.gitbook/assets/editor-clip.jpg)
 
 Jika Anda butuh clipping yang presisi, maka pastikan nilai **Buffer Distance** adalah 0.
 
@@ -28,7 +28,7 @@ Untuk **Preserve the area that intersects**, ini akan menghapus di luar area ove
 
 Klik **OK**. Hasilnya seperti pada gambar berikut ini.
 
--- gambar
+![](../../.gitbook/assets/klik-ok-clip.jpg)
 
 ## Memotong sebuah poligon
 
@@ -44,11 +44,11 @@ Pilih poligon mana yang ingin dipotong. Klik menu **Snapping** pada _Snapping to
 
 Klik **Cut Polygons tool** pada _Editor toolbar_. Mulailah melakukan pemotongan pada poligon.
 
--- gambar
+![](../../.gitbook/assets/cut-poligon.jpg)
 
 ### Langkah 3
 
 Jika sudah selesai proses menandai bagian yang dipotong, maka tekan **F2** pada keyboard untuk memotong poligon dan mengakhirinya.
 
--- gambar
+![](../../.gitbook/assets/hasil-cut-poligon.jpg)
 
