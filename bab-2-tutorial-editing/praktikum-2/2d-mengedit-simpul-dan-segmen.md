@@ -6,7 +6,7 @@ Pada praktikum sebelumnya Anda telah melakukan editing fitur poligon. Pada kesem
 
 Pastikan Anda sudah menyimpan hasil pekerjaan sebelumnya. Selanjutnya masih tetap dalam sesi Editing. Klik **Edit tool** lalu pilih garis yang ingin diperbaiki. Kemudian klik **Edit Vertices** pada Editor toolbar.
 
-![](../../.gitbook/assets/edit-vertices.jpg)
+-- gambar
 
 {% hint style="info" %}
 Simpul dan segmen yang diperbaiki berdasarkan citra satelit atau hasil drone pada peta dasarnya. Jika garis yang dibuat misalnya kurang rapi, maka Anda dapat mengubah dari mode garis lurus menjadi _circular arc_ atau _Bezier curve_, dan bisa juga menghapus simpul-simpul yang tidak dibutuhkan.
@@ -16,7 +16,7 @@ Simpul dan segmen yang diperbaiki berdasarkan citra satelit atau hasil drone pad
 
 Dekatkan pointer ke tengah garis atau segmen sehingga pointer berubah icon. Klik kanan pada titik itu, pilih **Change Segment** &gt; klik **Circular Arc**.
 
-![](../../.gitbook/assets/circular-arc.jpg)
+-- gambar
 
 Ubah segmen dengan klik arc, drag, dan drop sesuai kebutuhan. Anda juga dapat sambil menekan **SPACEBAR** pada keyboard untuk menonaktifkan mode _snapping_ sementara jika kesulitan menempatkan kurva yang diinginkan.
 
@@ -24,17 +24,17 @@ Ubah segmen dengan klik arc, drag, dan drop sesuai kebutuhan. Anda juga dapat sa
 
 Klik **Delete Vertex tool** pada **Edit Vertices toolbar.** Lalu pilih simpul mana yang ingin dihapus, dengan cara drag membentuk area kotak pada simpul-simpul yang ingin dihapus.
 
-![](../../.gitbook/assets/delete-vertex.jpg)
+-- gambar
 
 ### Langkah 4
 
 Klik **Modify Sketch Vertices tool** pada **Edit Vertices toolbar**. Hal ini akan melanjutkan pekerjaan dalam editing simpul dan segmen.
 
-![](../../.gitbook/assets/modify-skecth.jpg)
+-- gambar
 
 Dekatkan pointer ke bagian tengah segmen sehingga berubah icon seperti pada langkah 2 di atas. Klik kanan lalu pilih **Change Segment** &gt; klik **Bezier**.
 
-![](../../.gitbook/assets/bezier.jpg)
+-- gambar
 
 ### Langkah 5
 

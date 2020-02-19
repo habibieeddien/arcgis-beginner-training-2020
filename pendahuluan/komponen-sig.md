@@ -12,15 +12,15 @@ Perangkat lunak mempunyai fungsi untuk penyimpanan, analisis, dan penayangan inf
 
 ### Data
 
-Di bidang ilmu Komputer dan Informatika dikenal sistem bernama GIGO. Singkatan dari Garbage In, Garbage Out. Artinya, jika yang dimasukkan \(Input\) ke dalam sistem adalah data sampah, Maka data yang keluar pun \(output\) adalah sampah.
+Data merupakan komponen yang penting dalam SIG. Keakurasian data sangat dituntut dalam bidang SIG. Di bidang ilmu Komputer dan Informatika dikenal sistem bernama GIGO. Singkatan dari _Garbage In, Garbage Out_. Artinya, jika yang dimasukkan \(_Input_\) ke dalam sistem adalah data sampah, Maka data yang keluar pun \(_output_\) adalah sampah.
 
 ### Sumber Daya Manusia \(_People_\)
 
-
+Teknologi SIG menjadi sangat terbatas kemampuannya jika tidak ada sumber daya yang mengelola sistem dan mengembangkan untuk aplikasi yang sesuai. Pengguna dan pembuat sistem harus saling bekerja sama untuk mengembangkan teknologi SIG.
 
 ### Metode \(_Methods_\)
 
-
+Model dan teknik pemrosesan data merupakan salah satu bagian penting untuk keperluan dalam aplikasi SIG. Metode adalah teknik-teknik untuk mengolah data agar dapat ditayangkan, digunakan kembali, dan sebagainya. Metode biasanya diintegrasikan dengan perangkat lunak yang dikembangkan, seperti ArcGIS.
 
 ![](../.gitbook/assets/komponen-gis.jpg)
 
