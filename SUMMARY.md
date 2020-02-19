@@ -25,7 +25,6 @@
     * [Latihan 3c: Membuat Fitur Anotasi Baru](bab-2-tutorial-editing/praktikum-3/latihan-3c-membuat-fitur-anotasi-baru.md)
   * [Praktikum 4 - Mengedit Shared Features dan Topology](bab-2-tutorial-editing/praktikum-4/README.md)
     * [Latihan 4a: Mengedit Fitur Share Dengan Topologi Peta](bab-2-tutorial-editing/praktikum-4/latihan-4a-mengedit-fitur-share-dengan-topologi-peta.md)
-  * [Praktikum 5 - Menggunakan Penyesuaian Spasial](bab-2-tutorial-editing/praktikum-5.md)
 * [Bab 3 Topologi](bab-3-topology/README.md)
   * [Analisis Topologi](bab-3-topology/topologi-teori-praktikum-dasar.md)
   * [Transformasi Data Spasial](bab-3-topology/editing-topology.md)

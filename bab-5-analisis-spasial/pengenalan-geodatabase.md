@@ -10,17 +10,17 @@ Dalam pengertian lain, database juga merupakan himpunan atau kumpulan data atau 
 
 Geodatabase adalah suatu tempat yang digunakan untuk menyimpan data feature, dataset, raster dataset, topologi, network dataset, terrain dataset dan lain sebagainya. Ada tiga jenis geodatabase dalam ArcGIS seperti yang ditunjukkan pada gambar berikut.
 
--- gambar
+![Jenis Geodatabase dalam ArcGIS](../.gitbook/assets/jenis-geodatabase.jpg)
 
-1. Personal Geodatabase, semua dataset disimpan dalam format \*.mdb microsoft database dengan limit size sampai 2 Giga byte, hanya berjalan pada windows operating system. Dapat dipakai oleh single user dan kelompok kecil. Sering digunakan untuk manajemen data atribut melalui microsfot access untuk jenis atribut string \(teks\);
+1. Personal Geodatabase, semua dataset disimpan dalam format \*.mdb microsoft database dengan limit size sampai 2 Giga byte, hanya berjalan pada windows operating system. Dapat dipakai oleh single user dan kelompok kecil. Sering digunakan untuk manajemen data atribut melalui microsoft access untuk jenis atribut string \(teks\);
 2. File Geodatabase, disimpan dalam bentuk sistem file, setiap dataset dapat disimpan sampai 1 Terra byte tetapi dapat dibesarkan mencapai 256 Terra byte untuk menyimpan data citra satelit yang besar dan banyak;
 3. ArcSDE Geodatabase, dapat juga disebut dengan multiuser geodatabase, disimpan dalam bentuk relasional database menggunakan Microsoft SQL Server, IBM DB2, Oracle, PostgreSQL, IBM Informix. Syarat penggunaan jenis ini memerlukan ArcSDE sebagai penghubung dan tidak terbatas dalam penyimpanan serta penggunanya. Dapat digunakan pada platform windows, UNIX, Linux, dan koneksi langsung ke DBMS.
 
 File Geodatabase dan Personal Geodatabase tersedia untuk semua pengguna ArcGIS Dekstop \(Basc, Standard, Advanced\) dirancang untuk mendukung model informasi pada geodatabase seperti topologi, raster katalog, network dataset, terrain dataset, address locator, dan lain-lain. Personal geodatabase didesain hanya dapat diedit oleh satu user saja, untuk file geodatabase dimungkinkan dapat diedit lebih dari satu editor pada waktu yang sama untuk feature yang berbeda. Perbedaan lainnya dapat dilihat pada gambar berikut ini.
 
--- gambar
+![Perbedaan feature Geodatabase](../.gitbook/assets/feature-geodatabase.jpg)
 
-Ada beberapa hal yang perlu di perhatikan dalam membuat geodatabase. Inventarisasi peta atau data spasial apa saja yang dibuat dan data atau feature class apa saja yang dibutuhkan, nantinya sangat berhubungan erat dengan populasi data dan juga analisa terhadap data yang akan digunakan.
+Ada beberapa hal yang perlu diperhatikan dalam membuat geodatabase. Inventarisasi peta atau data spasial apa saja yang dibuat dan data atau feature class apa saja yang dibutuhkan, nantinya sangat berhubungan erat dengan populasi data dan juga analisa terhadap data yang akan digunakan.
 
 ### Penentuan sistem koordinat, skala dan toleransi yang akan digunakan
 
