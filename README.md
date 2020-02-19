@@ -36,12 +36,6 @@ Very Sugiarto, M. Kom.
 
 Pelatihan ini dibagi menjadi beberapa bab, yaitu:
 
-{% page-ref page="pendahuluan/" %}
-
-{% hint style="info" %}
-Materi pengantar untuk sistem informasi geografis, data spasial, dan komponen-komponennya.
-{% endhint %}
-
 {% page-ref page="bab-1-pengenalan-arcgis/" %}
 
 {% hint style="info" %}
@@ -56,21 +50,9 @@ Cara termudah untuk belajar menggunakan ArcMap adalah dengan menyelesaikan tutor
 
 {% page-ref page="bab-3-topology/" %}
 
-{% hint style="info" %}
-Materi tingkat lanjut yang menjelaskan tentang analisis topologi dan transformasi data spasial.
-{% endhint %}
-
 {% page-ref page="bab-4-analisis-jaringan/" %}
 
-{% hint style="info" %}
-Materi tingkat lanjut yang mempelajari tentang optimasi pencarian rute atau jalan terdekat dengan fitur-fitur yang ada dalam data spasial.
-{% endhint %}
-
 {% page-ref page="bab-5-analisis-spasial/" %}
-
-{% hint style="info" %}
-Materi tingkat lanjut yang mengenalkan tentang geodatabase dan analisis data yang di-overlay.
-{% endhint %}
 
 
 

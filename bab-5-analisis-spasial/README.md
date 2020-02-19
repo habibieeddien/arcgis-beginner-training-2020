@@ -2,7 +2,7 @@
 
 ## Tujuan
 
-* Mampu Mengintegrasikan data dalam SIG;
+* Mampu mengintegrasikan data dalam SIG;
 * Mampu memahami karakteristik dan komponen data dalam SIG;
 * Mampu memahami jenis analisis data dalam SIG;
 * Mampu melakukan analisis data dalam SIG;
