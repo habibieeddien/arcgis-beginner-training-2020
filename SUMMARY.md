@@ -22,7 +22,7 @@
   * [Praktikum 3 - Membuat dan Mengedit Anotasi](bab-2-tutorial-editing/praktikum-3.md)
   * [Praktikum 4 - Mengedit Shared Features dan Topology](bab-2-tutorial-editing/praktikum-4.md)
   * [Praktikum 5 - Menggunakan Penyesuaian Spasial](bab-2-tutorial-editing/praktikum-5.md)
-* [Bab 3 Topology](bab-3-topology/README.md)
+* [Bab 3 Topologi](bab-3-topology/README.md)
   * [TOPOLOGI \(TEORI-PRAKTIKUM-DASAR\)](bab-3-topology/topologi-teori-praktikum-dasar.md)
   * [Untitled](bab-3-topology/editing-topology.md)
 * [Bab 4 Analisis Jaringan](bab-4-analisis-jaringan/README.md)
