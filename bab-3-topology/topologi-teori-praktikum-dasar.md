@@ -13,7 +13,7 @@ Berikut ini adalah beberapa aturan yang bisa diterapkan pada feature class point
 
 1. Must Be Covered By Boundary Of
 
-| ![](../.gitbook/assets/0.png) | Feature titik dari satu layer harus bersinggungan dengan batas dari feature poligon lainnya. Bila feature dari layer titik berada diluar poligon, titik tersebut dianggap sebagai suatu kesalahan error. |
+| ![](../.gitbook/assets/0%20%281%29.png) | Feature titik dari satu layer harus bersinggungan dengan batas dari feature poligon lainnya. Bila feature dari layer titik berada diluar poligon, titik tersebut dianggap sebagai suatu kesalahan error. |
 | :--- | :--- |
 
 
@@ -25,13 +25,13 @@ Berikut ini adalah beberapa aturan yang bisa diterapkan pada feature class point
 
 1. Point Must Be Covered By Line
 
-| ![](../.gitbook/assets/2%20%284%29.png) | Feature titik harus terkover oleh feature garis atau feature lainnya. Titik yang tidak berada diatas feature garis dianggap sebagai error. |
+| ![](../.gitbook/assets/2%20%288%29.png) | Feature titik harus terkover oleh feature garis atau feature lainnya. Titik yang tidak berada diatas feature garis dianggap sebagai error. |
 | :--- | :--- |
 
 
 1. Must Be Properly Inside
 
-| ![](../.gitbook/assets/3%20%284%29.png) | Feature titik harus benar-benar berada didalam area poligon suatu layer. Titik yang berada di luar area/poligon dianggap sebagai error. |
+| ![](../.gitbook/assets/3%20%288%29.png) | Feature titik harus benar-benar berada didalam area poligon suatu layer. Titik yang berada di luar area/poligon dianggap sebagai error. |
 | :--- | :--- |
 
 
@@ -53,13 +53,13 @@ Berikut ini adalah beberapa set aturan yang dapat diaplikasikan terhadap feature
 
 1. Must Not Covered by Feature Class Of
 
-| ![](../.gitbook/assets/6%20%283%29.png) | Garis dari satu layer harus serupa dengan garis lain dari layer lainnya. Garis pada layer pertama yang tidak serupa dengan garis pada layer kedua dianggap sebagai error. |
+| ![](../.gitbook/assets/6%20%284%29.png) | Garis dari satu layer harus serupa dengan garis lain dari layer lainnya. Garis pada layer pertama yang tidak serupa dengan garis pada layer kedua dianggap sebagai error. |
 | :--- | :--- |
 
 
 1. Must Not Overlap With
 
-| ![](../.gitbook/assets/7%20%285%29.png) | Garis dari satu layer harus tidak overlap dengan garis dari layer lainnya. Garis yang meng-overlap dianggap sebagai error. |
+| ![](../.gitbook/assets/7%20%287%29.png) | Garis dari satu layer harus tidak overlap dengan garis dari layer lainnya. Garis yang meng-overlap dianggap sebagai error. |
 | :--- | :--- |
 
 
@@ -83,13 +83,13 @@ Berikut ini adalah beberapa set aturan yang dapat diaplikasikan terhadap feature
 
 1. Must Not Self-Overlap
 
-| ![](../.gitbook/assets/11%20%281%29.png) | Feature garis pada suatu layer tidak boleh memotong \(intersect\) atau menumpang \(overlap\) dirinya sendiri. Garis yang menumpang dirinya sendiri dianggap sebagai error. |
+| ![](../.gitbook/assets/11%20%282%29.png) | Feature garis pada suatu layer tidak boleh memotong \(intersect\) atau menumpang \(overlap\) dirinya sendiri. Garis yang menumpang dirinya sendiri dianggap sebagai error. |
 | :--- | :--- |
 
 
 1. Must Not Self-Intersect
 
-| ![](../.gitbook/assets/12.png) | Feature garis pada suatu layer tidak boleh memotong feature itu sendiri. Garis yang menumpang \(overlap\) feature itu sendiri, atau titik dimana feature itu memotong dirinya sendiri dianggap sebagai error. |
+| ![](../.gitbook/assets/12%20%281%29.png) | Feature garis pada suatu layer tidak boleh memotong feature itu sendiri. Garis yang menumpang \(overlap\) feature itu sendiri, atau titik dimana feature itu memotong dirinya sendiri dianggap sebagai error. |
 | :--- | :--- |
 
 

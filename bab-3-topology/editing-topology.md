@@ -16,7 +16,7 @@ Langkah Praktikum :
 4. Mulai editing, dengan klik Start Editing pada Editor Toolbar, kemudian aktifkan mode Snapping.
 5. Mulai Adjusment dengan menentukan data yang akan di-adjust terlebih dahulu melaluli Spatial A djusment
 
-![](../.gitbook/assets/0%20%285%29.png)
+![](../.gitbook/assets/0%20%288%29.png)
 
 Pilih NewBuilding dan NewParcel karena yang akan ditransformasikan adalah kedua data tersebut. Kemudian klik OK
 
@@ -28,7 +28,7 @@ Pilih NewBuilding dan NewParcel karena yang akan ditransformasikan adalah kedua 
 1. Klik Adjust untuk mentransformasi data yang telah dipilih.
 2. Klik Stop Editing
 
-![](../.gitbook/assets/2%20%282%29.png)
+![](../.gitbook/assets/2%20%284%29.png)
 
 Hasil Transformasi dengan menggunakan metode Similarity
 
@@ -45,7 +45,7 @@ Feature ImportStreet.shp akan di-adjust ke feature Street.shp
 
 1. Klik kanan pada layer Import StreetsZoom to layer
 
-![](../.gitbook/assets/3.png)
+![](../.gitbook/assets/3%20%281%29.png)
 
 1. Mulai editing, dengan klik Start Editing pada Editor Toolbar. Kemudian aktifkan mode Snap pada semua feature yang ada.
 2. Mulai Adjusment dengan menentukan data yang akan di-adjust terlebih dahulu melaluli Spatial Adjusment  Set Adjust Data...
@@ -59,7 +59,7 @@ Buat Dispalcement Link, dengan klik pada Spatial Adjusment Toolbar, atau button 
 1. Buat Displacement Link, dengan klik pada spatial Adjusment Toolbar, atau button untuk Multidisplacement Link. \(Untuk Rubbershet labih baik menggunakan Multidisplacement Link\)
 2. Klik pada posisi import street, lalu pilih vertex, klik OK
 
-![](../.gitbook/assets/4%20%283%29.png)
+![](../.gitbook/assets/4%20%285%29.png)
 
 1. Klik pada posisi import street, lalu pilih vertex, klik OK, muncul kotak isian No of Link, Tekan Enter
 
@@ -69,7 +69,7 @@ Buat Displacement Link yang lain sesuai dengan posisi pada ImportStreet dan Stre
 
 1. Klik Adjust untuk mentransformasi data yang telah dipilih
 
-![](../.gitbook/assets/6%20%284%29.png)
+![](../.gitbook/assets/6%20%285%29.png)
 
 Hasil Transformasi dengan menggunakan metode Rubbersheet
 

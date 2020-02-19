@@ -48,7 +48,7 @@ Cara termudah untuk belajar menggunakan ArcMap adalah dengan menyelesaikan tutor
 
 {% page-ref page="bab-4-analisis-jaringan/" %}
 
-{% page-ref page="bab-5-analisis-spasial.md" %}
+{% page-ref page="bab-5-analisis-spasial/" %}
 
 
 
