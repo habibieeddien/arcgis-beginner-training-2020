@@ -29,7 +29,7 @@
   * [Analisis Topologi](bab-3-topology/topologi-teori-praktikum-dasar.md)
   * [Transformasi Data Spasial](bab-3-topology/editing-topology.md)
 * [Bab 4 Analisis Jaringan](bab-4-analisis-jaringan/README.md)
-  * [Praktikum 1 - Pencarian Stasiun BBM \(Pom Bensin\) yang berjarak radius 5KM](bab-4-analisis-jaringan/praktikum-1-pencarian-stasiun-bbm-pom-bensin-yang-berjarak-radius-5km.md)
+  * [Praktikum 1 - Pencarian Stasiun Pemadam Kebakaran \(Damkar\) yang berjarak radius 5KM](bab-4-analisis-jaringan/praktikum-1-pencarian-stasiun-bbm-pom-bensin-yang-berjarak-radius-5km.md)
   * [Praktikum 2 - Pencarian Rute Menggunakan Batasan dan Titik Pemberhentian](bab-4-analisis-jaringan/praktikum-2-pencarian-rute-menggunakan-batasan-dan-titik-pemberhentian.md)
 * [Bab 5 Analisis Spasial](bab-5-analisis-spasial/README.md)
   * [Pengenalan Geodatabase](bab-5-analisis-spasial/pengenalan-geodatabase.md)
