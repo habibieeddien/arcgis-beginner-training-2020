@@ -44,10 +44,16 @@
 
 #### Tahapan 2 - Network Analysis Environment
 
-* Pilih Customize -Toolbars - Network Analyst 
-* Pilih Network Analyst - New Service Area 
-* Untuk menambahkan Network Analyst Window ke dokumen peta, klik SHow/Hide Network Analyst Window 
-* Klik kanan Fcilities - Load Locations, pada Load Form pilih Firestations, klik OK 
+* Pilih `Customize > Toolbars`  Kemudian pilih `Network Analyst`  dan pastikan bagian `Network Analyst` **tercentang**
+
+![](../.gitbook/assets/c6.png)
+
+* Setelah memilih toolbars _**Network Analyst**_, maka akan tampil toolbar dalam peta dokumen. Selanjutnya pilih dropdown `Network Analyst - New Service Area` 
+* Untuk menambahkan Network Analyst Window ke dokumen peta, klik Show/Hide Network Analyst Window
+
+![](../.gitbook/assets/c7.png)
+
+* Klik kanan Facilities - Load Locations, pada Load Form pilih Firestations, klik OK 
 * Pada Network Analyst Window, klik tombol Service Area Propoerties 
 * Pilih AnalyisSettings dan masukkan nilai 8046 pada menu Default Breaks 
 * Masuk Line Generation - klik Generate Lines - pilih Not Overlapping 
