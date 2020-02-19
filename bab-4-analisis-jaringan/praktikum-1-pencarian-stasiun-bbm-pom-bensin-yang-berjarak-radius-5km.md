@@ -49,27 +49,54 @@
 ![](../.gitbook/assets/c6.png)
 
 * Setelah memilih toolbars _**Network Analyst**_, maka akan tampil toolbar dalam peta dokumen. Selanjutnya pilih dropdown `Network Analyst - New Service Area` 
-* Untuk menambahkan Network Analyst Window ke dokumen peta, klik Show/Hide Network Analyst Window
 
 ![](../.gitbook/assets/c7.png)
 
+* Untuk menambahkan Network Analyst Window ke dokumen peta, klik Show/Hide Network Analyst Window
+
+![](../.gitbook/assets/c8.png)
+
 * Klik kanan Facilities - Load Locations, pada Load Form pilih Firestations, klik OK 
-* Pada Network Analyst Window, klik tombol Service Area Propoerties 
+
+![](../.gitbook/assets/c9.png)
+
+* Pada Network Analyst Window, klik tombol Service Area Properties
+
+![](../.gitbook/assets/d1.png)
+
 * Pilih AnalyisSettings dan masukkan nilai 8046 pada menu Default Breaks 
+
+![](../.gitbook/assets/d2.png)
+
 * Masuk Line Generation - klik Generate Lines - pilih Not Overlapping 
+
+![](../.gitbook/assets/d3.png)
+
 * Klik Generate Polygons - Klik Detailed - masukkan nilai 0 meter untuk TrimPolygons - pilih Not Overlapping. 
+
+![](../.gitbook/assets/d4.png)
+
 * Klik OK
 
 #### Tahapan 3 - Menjalankan analisis jaringan
 
 * Pada toolbar Network Analyst, klik tombol Solve 
+
+![](../.gitbook/assets/d5.png)
+
 * Tambahkan warna untuk setiap record jalan 
 * Jika di zoom ,maka muncul garis yang belum tersambung 
 * Jika hendak menggunakan layergaris atau poligon dari dokumen peta lain, maka lakukan export layer-layer yang diperlukan ke class fitur dengan cara klik kanan layer Lines - Data - Export Data. 
-* Atur output ke ..\Firestations\Data.gdb\Within\_5\_miles 
+
+![](../.gitbook/assets/d6.png)
+
+* Atur output ke folder yang telah dibuat tadi. Contoh ..\Firestations\Data.gdb\Within\_5\_miles 
 * Klik OK 
 * Pilih Yes jika muncul peringatan tambah layer ke peta 
 * Tambahkan warna di Within\_5\_miles berdasarkan FacilityID 
 * Untuk membatasi area kebakran dalam radius 5 mil \(sehingga tidak perlu set jalur di dalam 5 mil\) maka layer di dalam 5 mil haru dihapus. Cara yang dilakukan adalah pada ArcToolbox pilih Analysis Tools - Overlay-Erase - pilih roads sebagai input, Service Area/Polygons sebagai Erase Fetures, dan ..\Firestations\Data.gdb\Within\_5\_miles sebagai output 
+
+![](../.gitbook/assets/d9.png)
+
 * klik OK
 
