@@ -1,4 +1,4 @@
-# Praktikum 1 - Pencarian Stasiun Pemadam Kebakaran \(Damkar\) yang berjarak radius 5KM
+# Praktikum 1 - Pencarian Stasiun Pemadam Kebakaran \(Damkar\) yang berjarak radius 8KM
 
 ## Pengantar
 
