@@ -20,11 +20,11 @@ Yuri Ariyanto, S.Kom., M.Kom.
 
 [Habibie Ed Dien, S.Kom., M.T.](https://www.didien.tk/cv)
 
-M. Hasyim Ratsanjani
+M. Hasyim Ratsanjani, S.Kom., M.Kom.
 
 Usman Nurhasan, S.Kom., M.T.
 
-Veri
+Very Sugiarto, M. Kom.
 
 
 
