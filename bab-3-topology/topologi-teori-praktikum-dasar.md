@@ -4,7 +4,7 @@
 
 1. **Pengertian Topology**
 
-Topology yaitu satu set aturan/ketetapan \(dalam hal ini disebut sebagai Rule\) yang diterapkan pada Feature Class yang secara eksplisit mendefinisikan hubungan spasial yang harus ada di antara data feature di dalam Feature Datasets dari sebuah geodatabase. Rule atau aturan-aturan yang berlaku terhadap jenisjenis feature class tertentu tergantung kepada jenis/tipe data, apakah titik, garis, ataukah area/poligon.
+Topologi yaitu satu set aturan/ketetapan \(dalam hal ini disebut sebagai Rule\) yang diterapkan pada Feature Class yang secara eksplisit mendefinisikan hubungan spasial yang harus ada di antara data feature di dalam Feature Datasets dari sebuah geodatabase. Rule atau aturan-aturan yang berlaku terhadap jenis-jenis feature class tertentu tergantung kepada jenis/tipe data, apakah titik, garis, ataukah area/poligon.
 
 1. **Jenis- - jenis Topology**
 2. Feature Class Point/Titik
