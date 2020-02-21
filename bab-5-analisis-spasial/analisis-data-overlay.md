@@ -1,4 +1,4 @@
-# Analisis Data Overlay
+# Model Data dan Klasifikasi Analisis Spasial
 
 ## Model Data Spasial Vektor dalam SIG
 
@@ -38,7 +38,7 @@ Kemampuan SIG juga dikenali dari fungsi-fungsi analisis yang dapat dilakukan. Ke
 4. Fungsi Network;
 5. Fungsi 3D Analyst.
 
-## Pengukuran, Query Spasial dan Fungsi Klasifikasi
+### Pengukuran, Query Spasial dan Fungsi Klasifikasi
 
 Fungsi ini merupakan fungsi yang meng-eksplore data tanpa membuat perubahan yang mendasar, dan biasanya dilakukan sebelum analisis data. Fungsi pengukuran mencakup pengukuran jarak suatu obyek, luas area baik itu 2 dimensi atau 3 dimensi.
 
@@ -48,7 +48,7 @@ Query spasial dalam mengidentifikasikan obyek secara selektif, definisi pengguna
 
 ![Gambar b. Klasifikasi pendapatan rumah tangga suatu daerah dari \(kiri\) 7 kelas klasifikasi menjadi \(kanan\) 5 kelas klasifikasi](../.gitbook/assets/klasifikasi-pendapatan.jpg)
 
-## Fungsi Overlay
+### Fungsi Overlay
 
 Fungsi ini menghasilkan data spasial baru dari minimal dua data spasial yang menjadi dua data spasial yang menjadi masukannya. Sebagai contoh, bila untuk menghasilkan wilayah-wilayah yang sesuai untuk budidaya tertentu \(misalnya kelapa sawit\) diperlukan data ketinggian permukaan bumi, kadar air tanah, dan jenis tanah, maka fungsi analisis spasial overlay akan dilakukan terhadap ketiga data spasial \(dan atribut\) tersebut. Prinsip overlay dapat dilihat pada Gambar di bawah ini. Fungsi overlay ini juga dapat berlaku untuk model data raster.
 
@@ -56,17 +56,17 @@ Fungsi ini menghasilkan data spasial baru dari minimal dua data spasial yang men
 
 Prinsip dasar overlay untuk poligon. Dua buah poligon layer A dan B akan menghasilkan data spasial baru \(dan atribut\) yang merupakan hasil interseksi dari A dan B.
 
-## Fungsi Neighborhood
+### Fungsi Neighborhood
 
 Salah satu yang terdapat dalam dalam klasifikasi adalah Buffering. Fungsi ini menghasilkan data spasial baru yang berbentuk poligon atau area dengan jarak tertentu dari data spasial yang menjadi masukannya. Data spasial titik akan menghasilkan data spasial baru yang berupa lingkaran-lingkaran yang mengelilingi titik-titik pusatnya. Untuk data spasial garis akan menghasilkan data spasial baru yang berupa poligon-poligon yang melingkupi garis-garis. Demikian pula untuk data spasial poligon berupa poligon-poligon yang lebih besar dan konsenris.
 
-## Fungsi Network
+### Fungsi Network
 
 Fungsi network merujuk data spasial titik-titik \(points\) atau garis-garis \(lines\) sebagai suatu jaringan yang tidak terpisahkan. Fungsi ini sering digunakan di dalam bidang-bidang transportasi, hidrologi dan utility \(misalnya, aplikasi jaringan kabel listrik, komunikasi, pipa minyak dan gas, air minum, saluran pembuangan\). Sebagai contoh dengan fungsi analisis spasial network, untuk menghitung jarak terderka antara dua titik tidak menggunakan jarak selisih absis dan ordinat titik awal dan titik akhirnya. Tetapi menggunakan cara lain yang terdapat dalam lingkup network. Pertama, cari seluruh kombinasi jalan-jalan \(segmen-segmen\) yang menghubungkan titik awal dan akhir yang dimaksud. Pada setiap kombinasi, hitung jarak titik awal dan akhir dengan mengakumulasikan jarak-jarak segmen yang membentuknya. Pilih jarak terpendek \(terkecil\) dari kombinasi-kombinasi yang ada. Salah satu aplikasi yang dapat diterapkan menggunakan fungsi network adalah mencari urutan rute yang optimal. Misalnya kita memiliki 3 tujuan yang harus di datangi. Dengan menghitung efektifitas dan efisien kita dapat menentukan rute optimal tujuan kita.
 
 ![](../.gitbook/assets/rute-optimal.jpg)
 
-## Fungsi 3D Analyst
+### Fungsi 3D Analyst
 
 Fungsi 3 Dimensi terdiri dari sub-sub fungsi yang berhubungan dengan presentasi data spasial dalam ruang 3 dimensi. Fungsi analisis spasial ini banyak menggunakan fungsi interpolasi. Sebagai contoh, untuk menampilkan data spasial ketinggian, tata guna tanah, jaringan jalan dan utility dalam bentuk model  dimensi, fungsi ini banyak digunakan. Gambar berikut menyajikan contoh penggunaan fungsi 3D analyst untuk pengeboran sumur minyak.
 
