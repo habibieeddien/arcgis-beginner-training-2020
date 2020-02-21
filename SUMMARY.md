@@ -35,5 +35,7 @@
   * [Pengenalan Geodatabase](bab-5-analisis-spasial/pengenalan-geodatabase/README.md)
     * [Praktikum 1 - Implementasi Geodatabase](bab-5-analisis-spasial/pengenalan-geodatabase/praktikum.md)
   * [Model Data dan Klasifikasi Analisis Spasial](bab-5-analisis-spasial/analisis-data-overlay.md)
+  * [Konsep Dasar Spatial Overlay](bab-5-analisis-spasial/konsep-dasar-spatial-overlay/README.md)
+    * [Praktikum 2 - Analisis Data Spasial](bab-5-analisis-spasial/konsep-dasar-spatial-overlay/praktikum-2-analisis-data-spasial.md)
 * [Referensi](referensi.md)
 
