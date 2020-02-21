@@ -26,6 +26,8 @@ M. Hasyim Ratsanjani, S.Kom., M.Kom.
 
 Moch. Zawaruddin Abdullah, S.ST., M.Kom.
 
+Noprianto, S.Kom., M.Eng.
+
 Septian Enggar Sukmana, S.Pd., M.T.
 
 Usman Nurhasan, S.Kom., M.T.
