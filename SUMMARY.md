@@ -33,7 +33,7 @@
   * [Praktikum 2 - Pencarian Rute Menggunakan Batasan dan Titik Pemberhentian](bab-4-analisis-jaringan/praktikum-2-pencarian-rute-menggunakan-batasan-dan-titik-pemberhentian.md)
 * [Bab 5 Analisis Spasial](bab-5-analisis-spasial/README.md)
   * [Pengenalan Geodatabase](bab-5-analisis-spasial/pengenalan-geodatabase/README.md)
-    * [Praktikum](bab-5-analisis-spasial/pengenalan-geodatabase/praktikum.md)
+    * [Praktikum 1 - Implementasi Geodatabase](bab-5-analisis-spasial/pengenalan-geodatabase/praktikum.md)
   * [Analisis Data Overlay](bab-5-analisis-spasial/analisis-data-overlay.md)
 * [Referensi](referensi.md)
 
