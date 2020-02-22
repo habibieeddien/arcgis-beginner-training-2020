@@ -88,47 +88,53 @@ Peringatan! Pastikan Anda memiliki koneksi internet yang cukup agar proses unduh
 
 Pilih penyedia citra satelit, misalnya di sini menggunakan Google Maps Satellite.
 
---img
+![](../.gitbook/assets/google-maps.jpg)
 
 Kemudian zoom in ke area kampus Polinema.
 
---img
+![](../.gitbook/assets/zoom-in-polinema-sas-planet.jpg)
 
 ### Langkah 4
 
-Pilih tool … lalu buat area pemotongan foto satelit sesuai kebutuhan seperti pada gambar berikut.
+Pilih shift tool lalu buat area pemotongan foto satelit sesuai kebutuhan seperti pada gambar berikut.
 
---img
+![](../.gitbook/assets/shift-tool.jpg)
+
+Cara memotong citra satelit adalah klik kiri sekali, lalu geser mouse  sesuai besar area yang ingin dipotong, dan klik kiri sekali.
+
+![](../.gitbook/assets/crop-area.jpg)
 
 ### Langkah 5
 
-Kotak dialog … akan muncul. Pilih tab … &gt; pilih zoom 19, 21, dan 25.
+Kotak dialog **Selection Manager** akan muncul. Pilih tab **Stitch** &gt; pilih **Zoom** **21**.
 
---img
+**Output format:** Pilih **GeoTIFF \(Tagged Image File Format\)**
 
-Buat folder dan tentukan nama file citra, misalnya Polinema.tiff
+**Zoom:** 21
 
---img
+**Projection:** Geographic \(Latitude/Longitude\) / WGS84 / EPSG: 4326
 
-Pilih GeoTIFF Pilih Sistem Koordinat …
+![](../.gitbook/assets/selection-manager.jpg)
 
-Klik … untuk memulai unduhan.
+Buat folder dan tentukan nama file citra, misalnya **polinema\_basemap\_raster.tiff**
 
---img
-
-Hasil citra satelit setelah proses unduh selesai.
-
---img
+Klik **Start** untuk memulai unduhan. Tunggu hingga proses unduhan selesai.
 
 ### Langkah 6
 
 Ada dua cara untuk menambah peta dasar secara offline di ArcMap.
 
-Cara 1 Pilih icon … Add Data &gt; Pilih file Polinema.tiff --img
+{% tabs %}
+{% tab title="Cara 1" %}
+Cara 1 - Pilih icon ![](../.gitbook/assets/add-icon.jpg) **Add Data** &gt; Pilih file **polinema\_basemap\_raster.tiff**
+{% endtab %}
 
-Cara 2 Pilih dari jendela Catalog, lalu drag dan drop file Polinema.tiff ke Layers \(Table of Contents\). --img
+{% tab title="Cara 2" %}
+Cara 2 - Pilih dari jendela Catalog, lalu drag dan drop file **polinema\_basemap\_raster.tiff** ke Layers \(Table of Contents\).
+{% endtab %}
+{% endtabs %}
 
-Dari kedua cara tersebut, kemudian akan muncul kotak dialog … untuk menentukan Sistem Koordinat. Misalnya pada pelatihan ini, kita akan menggunakan WGS UTM 49S. Alasannya, karena posisi Malang berada di 49S berdasarkan zona UTM Indonesia \(Anda dapat mencarinya di internet\). Alasan lain, nanti kita akan menggunakan satuan meter untuk proses digitasi.
+Dari kedua cara tersebut, kemudian akan muncul kotak dialog untuk menentukan Sistem Koordinat. Misalnya pada pelatihan ini, kita akan menggunakan WGS UTM 49S. Alasannya, karena posisi Malang berada di 49S berdasarkan zona UTM Indonesia \(Anda dapat mencarinya di internet\). Alasan lain, nanti kita akan menggunakan satuan meter untuk proses digitasi.
 
 {% hint style="success" %}
 Anda telah praktik membuat dokumen peta baru, menambah peta dasar secara online maupun offline di ArcMap.
