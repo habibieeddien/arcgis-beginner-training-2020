@@ -40,7 +40,7 @@ Dari ketiga cara tersebut, kemudian akan tampil kotak dialog untuk membuat dokum
 
 ![Tampilan untuk membuat dokumen peta baru](../.gitbook/assets/new-dok.jpg)
 
-## Menambah Peta Dasar
+## Menambah Peta Dasar Secara Online
 
 ### Langkah 1
 
@@ -59,4 +59,78 @@ Maka akan tampil kotak dialog seperti pada gambar berikut ini. Misalnya di sini 
 ![Tampilan kotak dialog saat memilih peta dasar](../.gitbook/assets/basemap.jpg)
 
 Tunggu proses memuat peta sampai selesai, maka akan muncul layer baru di bagian **Table of Contents**.
+
+## Menambah Peta Dasar Secara Offline
+
+Anda perlu memahami bahwa peta dasar merupakan jenis data raster hasil dari citra satelit. Foto raster memiliki kualitas berbeda berdasarkan tingkat _zoom_. Terkadang Anda membutuhkannya di ArcMap ketika koneksi internet tidak mendukung. Berikut langkah-langkah untuk mengunduh citra satelit secara gratis yang dapat disesuaikan dengan kebutuhan Anda.
+
+### Langkah 1
+
+Silakan unduh terlebih dahulu aplikasi SAS Planet dari [tautan ini](https://bitbucket.org/sas_team/sas.planet.bin/downloads).
+
+![](../.gitbook/assets/unduh-sas-planet.jpg)
+
+{% hint style="info" %}
+**SAS Planet** adalah program untuk menampilkan dan sekaligus bisa dimanfaatkan untuk melakukan download image resolusi tinggi dari Google Map, Bing, Nokia, Yahoo, dan sebagainya.
+{% endhint %}
+
+### Langkah 2
+
+Setelah proses unduhan selesai, Anda dapat mengekstraknya dengan aplikasi 7zip, WinZip, atau aplikasi bawaan sistem dengan mengklik kanan pada file hasil unduhan.
+
+![](../.gitbook/assets/ekstrak.jpg)
+
+Lalu klik file ![](../.gitbook/assets/sas-planetexe.jpg) untuk menggunakan aplikasi tersebut.
+
+### Langkah 3
+
+Peringatan! Pastikan Anda memiliki koneksi internet yang cukup agar proses unduh peta dapat berjalan dengan lancar.
+
+Pilih penyedia citra satelit, misalnya di sini menggunakan Google Maps Satellite.
+
+--img
+
+Kemudian zoom in ke area kampus Polinema.
+
+--img
+
+### Langkah 4
+
+Pilih tool … lalu buat area pemotongan foto satelit sesuai kebutuhan seperti pada gambar berikut.
+
+--img
+
+### Langkah 5
+
+Kotak dialog … akan muncul. Pilih tab … &gt; pilih zoom 19, 21, dan 25.
+
+--img
+
+Buat folder dan tentukan nama file citra, misalnya Polinema.tiff
+
+--img
+
+Pilih GeoTIFF Pilih Sistem Koordinat …
+
+Klik … untuk memulai unduhan.
+
+--img
+
+Hasil citra satelit setelah proses unduh selesai.
+
+--img
+
+### Langkah 6
+
+Ada dua cara untuk menambah peta dasar secara offline di ArcMap.
+
+Cara 1 Pilih icon … Add Data &gt; Pilih file Polinema.tiff --img
+
+Cara 2 Pilih dari jendela Catalog, lalu drag dan drop file Polinema.tiff ke Layers \(Table of Contents\). --img
+
+Dari kedua cara tersebut, kemudian akan muncul kotak dialog … untuk menentukan Sistem Koordinat. Misalnya pada pelatihan ini, kita akan menggunakan WGS UTM 49S. Alasannya, karena posisi Malang berada di 49S berdasarkan zona UTM Indonesia \(Anda dapat mencarinya di internet\). Alasan lain, nanti kita akan menggunakan satuan meter untuk proses digitasi.
+
+{% hint style="success" %}
+Anda telah praktik membuat dokumen peta baru, menambah peta dasar secara online maupun offline di ArcMap.
+{% endhint %}
 
