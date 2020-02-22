@@ -18,5 +18,5 @@ Pengenalan lingkungan kerja editing, termasuk terminologi dan antarmuka pengguna
 
 ## Data
 
-Data bisa diunduh pada tautan ini.
+Melanjutkan data dari praktikum pengantar, yaitu peta dasar yang sudah diunduh.
 
